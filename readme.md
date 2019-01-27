@@ -8,4 +8,4 @@
 </p>
 
 <h3>User: admin@email.com</h3>
-<h3>Password: 12345678</h3>
+<h3>Password: query</h3>

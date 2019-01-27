@@ -6,6 +6,21 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-
 <h3>User: admin@email.com</h3>
 <h3>Password: query</h3>
+<hr>
+
+<p>Mostrar entrenadores:</p>
+<p align="center"><img src="/tests/Screenshot_0.png"></p>
+
+<p>Editar entrenador:</p>
+<p align="center"><img src="/tests/Screenshot_1.png"></p>
+
+<p>Mostrar informacion de un entrenador:</p>
+<p align="center"><img src="/tests/Screenshot_2.png"></p>
+
+<p>Mostrar pokemons:</p>
+<p align="center"><img src="/tests/Screenshot_3.png"></p>
+
+<p>Crear pokemon:</p>
+<p align="center"><img src="/tests/Screenshot_4.png"></p>

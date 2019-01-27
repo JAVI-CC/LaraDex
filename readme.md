@@ -10,17 +10,17 @@
 <h3>Password: query</h3>
 <hr>
 
-<p>Mostrar entrenadores:</p>
+<p>Show coaches::</p>
 <p align="center"><img src="/tests/Screenshot_0.png"></p>
 
-<p>Editar entrenador:</p>
+<p>Edit coach:</p>
 <p align="center"><img src="/tests/Screenshot_1.png"></p>
 
-<p>Mostrar informacion de un entrenador:</p>
+<p>Show information of a trainer:</p>
 <p align="center"><img src="/tests/Screenshot_2.png"></p>
 
-<p>Mostrar pokemons:</p>
+<p>Show pokemons:</p>
 <p align="center"><img src="/tests/Screenshot_3.png"></p>
 
-<p>Crear pokemon:</p>
+<p>Create pokemon:</p>
 <p align="center"><img src="/tests/Screenshot_4.png"></p>

@@ -16,4 +16,11 @@ class Trainer extends Model
     {
         return 'slug';
     }
+
+    public  function pokemons()
+    {
+        return $this->hasMany('Laradex\Pokemon');
+    }
+
+
 }

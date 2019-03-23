@@ -28,6 +28,8 @@ Route::get('/name/{name}/lastname/{lastname?}', function ($name, $lastname = nul
 Route::resource('trainers', 'TrainerController');
 Auth::routes();
 
-Route::resource('pokemons', 'PokemonController');
+//Route::resource('pokemons', 'PokemonController');
+Route::get('trainers/{trainer}/pokemons','PokemonController@index');
+Route::post('trainers/{trainer}/pokemons','PokemonController@store');
 
 Route::get('/home', 'HomeController@index')->name('home');

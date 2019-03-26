@@ -24,3 +24,6 @@
 
 <p>Create pokemon:</p>
 <p align="center"><img src="/tests/Screenshot_4.png"></p>
+
+<p>Create pokemon for a specific trainer:</p>
+<p align="center"><img src="/tests/Screenshot_5.png"></p>

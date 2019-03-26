@@ -86,7 +86,8 @@
 
                 <div class="links">
                     <a href="http://127.0.0.1:8000/trainers">Trainers</a>
-                    <a href="http://127.0.0.1:8000/pokemons">Pokemon's</a>
+                   <!-- <a href="http://127.0.0.1:8000/pokemons">Pokemon's</a> -->
+                    <a href="https://github.com/JAVI-CC/LaraDex">GitHub</a>
                 </div>
             </div>
         </div>

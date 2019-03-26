@@ -12,10 +12,10 @@
 <p>Show coaches:</p>
 <p align="center"><img src="/tests/Screenshot_0.png"></p>
 
-<p>Create coache:</p>
+<p>Create trainer:</p>
 <p align="center"><img src="/tests/Screenshot_1.png"></p>
 
-<p>Update coache:</p>
+<p>Update trainer:</p>
 <p align="center"><img src="/tests/Screenshot_2.png"></p>
 
 <p>Show pokemons:</p>

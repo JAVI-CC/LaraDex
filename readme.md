@@ -10,7 +10,7 @@
 <h3>Password: query</h3>
 <hr>
 
-<p>Show coaches::</p>
+<p>Show coaches:</p>
 <p align="center"><img src="/tests/Screenshot_0.png"></p>
 
 <p>Edit coach:</p>

@@ -12,6 +12,15 @@
 <p align="center"><img src="/tests/Screenshot_0.png"></p>
 
 <p>Create pokemon:</p>
+<p align="center"><img src="/tests/Screenshot_1.png"></p>
+
+<p>Create pokemon:</p>
+<p align="center"><img src="/tests/Screenshot_2.png"></p>
+
+<p>Create pokemon:</p>
+<p align="center"><img src="/tests/Screenshot_3.png"></p>
+
+<p>Create pokemon:</p>
 <p align="center"><img src="/tests/Screenshot_4.png"></p>
 
 <p>Create pokemon for a specific trainer:</p>
